@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" src="https://github.com/nemesioveloso.png" alt="Meu Avatar" width="150" style="border-radius: 50%;"/>
+<img align="right" src="https://github.com/nemesioveloso.png" alt="Meu Avatar" width="150"/>
 
 ###
 
