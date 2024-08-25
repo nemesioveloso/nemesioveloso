@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" src="https://github.com/nemesioveloso.png" alt="Meu Avatar" width="150" style="border-radius: 50%;"/>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
