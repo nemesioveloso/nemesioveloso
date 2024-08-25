@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nemesioveloso/nemesioveloso/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nemesioveloso/nemesioveloso/blob/output/snake.svg" alt="Snake animation" />
 
 ###
